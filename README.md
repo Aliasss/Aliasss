@@ -8,7 +8,7 @@ The Catholic Univ. Convergence of BigData Management & Sociology
 	
 #### For Data Analyst 🌞
 - Data Analyst Intern in frip (2020.08~2021.02) 
-- 
+- https://gist.github.com/Aliasss
 
 #### Skills
 - Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn 
@@ -20,10 +20,8 @@ The Catholic Univ. Convergence of BigData Management & Sociology
 - Data Preprocessing, Data Analytics, Data Visualization
 - Clustering
 - Recommender system
-- Dog
-- Cafe
+- Dog & Cafe
 ----
-
 #### github stats 🐱‍🏍
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aliasss)](https://github.com/anuraghazra/github-readme-stats)
 
