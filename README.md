@@ -21,6 +21,8 @@ The Catholic Univ. Convergence of BigData Management & Sociology
 - Clustering
 - Recommender system
 - Dog & Cafe
+
+<!--
 ----
 #### github stats 🐱‍🏍
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aliasss&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
