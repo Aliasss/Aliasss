@@ -8,20 +8,20 @@ The Catholic Univ. Convergence of BigData Management & Sociology
 	
 #### For Data Analyst 🌞
 - Data Analyst Intern in frip (2020.08~2021.02) 
-- The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상)
+- The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상) (2021.06.04)
 - https://gist.github.com/Aliasss
 
-#### Skills
+#### Skills 📟
 - Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn 
 - MySQL
 - Redash
 
-#### Interest
+#### Interest 🥂 
 - Statistics
 - Data Preprocessing, Data Analytics, Data Visualization
 - Clustering
 - Recommender system
-- Dog & Cafe
+- Dog & Cafe & Travel & Community
 
 <!--
 ----
