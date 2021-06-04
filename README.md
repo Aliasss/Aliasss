@@ -8,7 +8,7 @@ The Catholic Univ. Convergence of BigData Management & Sociology
 	
 #### For Data Analyst 🌞
 - Data Analyst Intern in frip (2020.08~2021.02) 
-- The Catholic Univ. the 3rd Data Analysis competition 1st prize(최우수상)
+- The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상)
 - https://gist.github.com/Aliasss
 
 #### Skills
