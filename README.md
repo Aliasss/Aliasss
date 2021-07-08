@@ -14,12 +14,12 @@ The Catholic Univ. Convergence of BigData Management & Sociology
 #### Skills 📟
 - Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn 
 - MySQL
-- Redash
+- Google BigQuery
+- Redash, Pentaho
 
 #### Interest 🥂 
 - Statistics
 - Data Preprocessing, Data Analytics, Data Visualization
-- Clustering
 - Recommender system
 - Dog & Cafe & Travel & Community
 
