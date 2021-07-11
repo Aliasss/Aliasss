@@ -21,7 +21,6 @@ The Catholic Univ. Convergence of BigData Management & Sociology
 #### Interest 🥂 
 - Statistics
 - Data Preprocessing, Data Analytics, Data Visualization
-- Recommender system
 - Dog & Cafe & Travel & Community
 
 <!--
