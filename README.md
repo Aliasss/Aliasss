@@ -16,7 +16,7 @@ The Catholic Univ. Convergence of BigData Management & Sociology
 - Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn 
 - MySQL
 - Google BigQuery
-- Redash, Pentaho
+- Tableau, Google Data Studio, Redash, Pentaho
 
 #### Interest 🥂 
 - Statistics
