@@ -20,11 +20,11 @@ The Catholic Univ. Convergence of BigData Management & Sociology
 
 #### Interest 🥂 
 - Statistics
+- Automation
 - Data Preprocessing, Data Analytics, Data Visualization
-- Dog & Cafe & Travel & Community
+- Dog & Cafe & Travel & Community & Writing
 
-<!--
-----
+
 #### github stats 🐱‍🏍
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aliasss&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
