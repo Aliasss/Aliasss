@@ -7,8 +7,8 @@ The Catholic Univ. Convergence of BigData Management & Sociology
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seob/)](https://www.linkedin.com/in/seob/)  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/owl301256)](https://www.facebook.com/owl301256/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seob6615@gmail.com)](mailto:seob6615@gmail.com)
 	
 #### For Data Analyst 🌞
-- Business Data Analyst (2021.07.13~)
-- Data Analyst Intern in frip (2020.08~2021.02) 
+- Business Data Analyst (Soomgo) (2021.07.13~)
+- Data Analyst Intern (Frip) (2020.08~2021.02) 
 - The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상) (2021.06.04)
 - https://gist.github.com/Aliasss
 
