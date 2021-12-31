@@ -1,6 +1,6 @@
 
 ### Dongseob Kim 😊
-The Catholic Univ. Convergence of BigData Management & Sociology
+The Catholic Univ. Big Data Humanities & Management Studies, Sociology
 <br>
 	
   
