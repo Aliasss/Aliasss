@@ -12,6 +12,9 @@ The Catholic Univ. Convergence of BigData Management & Sociology
 - The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상) (2021.06.04)
 - https://gist.github.com/Aliasss
 
+#### Ongoing Projects
+- Interactive Data Lab Owner
+
 #### Skills 📟
 - Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn 
 - MySQL
