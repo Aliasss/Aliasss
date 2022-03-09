@@ -23,9 +23,10 @@ The Catholic Univ. Big Data Humanities & Management Studies, Sociology
 
 #### Interest 🥂 
 - Automation
-- Statistics
+- Social Data
 - Data Preprocessing, Data Analytics, Data Visualization
-- Dog & Cafe & Travel & Community & Writing
+- Writing & Drawing
+- Dog & Cafe & Travel & Community
 
 
 <!-- #### github stats 🐱‍🏍 -->
