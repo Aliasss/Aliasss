@@ -12,7 +12,8 @@ The Catholic Univ. Big Data Humanities & Management Studies, Sociology
 - The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상) (2021.06.04)
 - https://gist.github.com/Aliasss
 
-#### Ongoing Projects
+#### Study
+- Python Algorithm Study
 - Interactive Data Lab Owner
 
 #### Skills 📟
