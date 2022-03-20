@@ -10,23 +10,22 @@ The Catholic Univ. Big Data Humanities & Management Studies, Sociology
 - Business Data Analyst (Soomgo) (2021.07.13~)
 - Data Analyst Intern (Frip) (2020.08~2021.02) 
 - The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상) (2021.06.04)
-- https://gist.github.com/Aliasss
 
-#### Study
-- Python Algorithm Study
-- Interactive Data Lab Owner
+#### Study 💻
+- Python Problem Solving Group Study (2022.03.09~)
+- Interactive Data Lab Owner (2021.10.20~2022.01.29)
 
 #### Skills 📟
 - Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn 
-- MySQL
-- Google BigQuery
-- Tableau, Google Data Studio, Redash, Pentaho, Amplitude
+- Google BigQuery, MySQL
+- Tableau, Amplitude, Google Data Studio, Redash, Pentaho
 
 #### Interest 🥂 
+- Problem Solving
 - Automation
-- Social Data
-- Data Preprocessing, Data Analytics, Data Visualization
-- Writing & Drawing
+- Social Impact
+- Data Analytics, Data Visualization
+- Writing
 - Dog & Cafe & Travel & Community
 
 
