@@ -13,6 +13,7 @@ The Catholic Univ. Big Data Humanities & Management Studies, Sociology
 - The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상) (2021.06.04)
 
 #### Study 💻
+- Tableau 신병 훈련소 13기 (2022.03.18~)
 - Python Problem Solving Group Study (2022.03.09~)
 - Interactive Data Lab Owner (2021.10.20~2022.01.29)
 
@@ -24,10 +25,10 @@ The Catholic Univ. Big Data Humanities & Management Studies, Sociology
 #### Interest 🥂 
 - Problem Solving
 - Automation
-- Social Impact
 - Data Analytics, Data Visualization
+- Social Impact
 - Writing
-- Dog & Cafe & Travel & Community
+- Cafe & Travel & Community
 
 
 <!-- #### github stats 🐱‍🏍 -->
