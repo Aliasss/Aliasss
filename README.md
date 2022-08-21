@@ -13,7 +13,7 @@ The Catholic Univ. Big Data Humanities & Management Studies, Sociology
 - The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상) (2021.06.04)
 
 #### Study 💻
-- 가짜연구소(Pseudo lab) fellowship 5th - Machine Learning Scientist Track Builder
+- 가짜연구소(Pseudo lab) fellowship 5th Builder - Machine Learning Scientist Track
 - 2022 Naver Boostcourse PY4E lead booster
 - Tableau 신병 훈련소 13기 수료 (2022.03.18~2022.04.01)
 - Python Problem Solving Group Study (2022.03.09~)
