@@ -21,18 +21,15 @@ The Catholic Univ. Big Data Humanities & Management Studies, Sociology
 - Interactive Data Lab Owner (2021.10.20~2022.01.29)
 
 #### Skills 📟
-- Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn 
+- Python, Data Handling(Pandas, Numpy, Matplotlib, Seaborn), ML(Scikit-Learn), Automation(selenium, pyautogui, pyperclip)
 - Google BigQuery, MySQL
-- Tableau, Amplitude, Google Data Studio, Redash, Pentaho
+- Tableau, Redash, Amplitude, Google Data Studio, Pentaho
 
 #### Interest 🥂 
-- Problem Solving
-- Automation
-- Machine Learning
-- Data Analytics
-- Social Impact
-- Writing
-- Cafe & Travel & Community
+- Tenchology(Citizen Data Science, ML, Automation, Algorithm) for Problem Solving
+	- What is Citizen Data Science? (Link: [Medium][https://medium.com/@thegostep/forget-about-data-scientists-start-thinking-about-citizen-data-science-3050f5803bce])
+- Art (Writing, Drawing, Music)
+- Cafe & Community
 
 
 <!-- #### github stats 🐱‍🏍 -->
