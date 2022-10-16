@@ -27,7 +27,7 @@ The Catholic Univ. Big Data Humanities & Management Studies, Sociology
 
 #### Interest 🥂 
 - Tenchology(Citizen Data Science, ML, Automation, Algorithm) for Problem Solving
-	- What is Citizen Data Science? (Link: [Medium][https://medium.com/@thegostep/forget-about-data-scientists-start-thinking-about-citizen-data-science-3050f5803bce])
+	- What is Citizen Data Science? Link: [Google][googlelink] [googlelink]: [https://google.com](https://medium.com/@thegostep/forget-about-data-scientists-start-thinking-about-citizen-data-science-3050f5803bce) "Go google"
 - Art (Writing, Drawing, Music)
 - Cafe & Community
 
