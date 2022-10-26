@@ -21,7 +21,7 @@ The Catholic Univ. Big Data Humanities & Management Studies, Sociology
 - Interactive Data Lab Owner (2021.10.20~2022.01.29)
 
 #### Skills 📟
-- Python, Data Handling(Pandas, Numpy, Matplotlib, Seaborn), ML(Scikit-Learn), Automation(selenium, pyautogui, pyperclip)
+- Python, Data Handling(Pandas, Numpy, Matplotlib, Seaborn), Automation(selenium, pyautogui, pyperclip), ML(Scikit-Learn)
 - Google BigQuery, MySQL
 - Tableau, Redash, Amplitude, Google Data Studio, Pentaho
 
