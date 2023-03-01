@@ -1,6 +1,7 @@
 
 ### Dongseob Kim 😊
-The Catholic Univ. Big Data Humanities & Management Studies, Sociology
+- The Catholic Univ. Big Data Humanities & Management Studies, Sociology (2013~2022)
+- Korea National Open University Department of Statistics and Data Science (2023~)
 <br>
 	
   
@@ -21,13 +22,15 @@ The Catholic Univ. Big Data Humanities & Management Studies, Sociology
 - Interactive Data Lab Owner (2021.10.20~2022.01.29)
 
 #### Skills 📟
-- Python, Data Handling(Pandas, Numpy, Matplotlib, Seaborn), Automation(selenium, pyautogui, pyperclip), ML(Scikit-Learn)
-- Google BigQuery, MySQL
-- Tableau, Redash, Amplitude, Google Data Studio, Pentaho
+- Program Language : Python, JavaScript, Dart, SQL(Google BigQuery, MySQL)
+- Data Handling(Pandas, Numpy, Matplotlib, Seaborn, etc), Automation(selenium, pyautogui, pyperclip), Machine Learning
+- BI Tools : Tableau, Redash, Amplitude, Google Data Studio
 
 #### Interest 🥂 
 - Tenchology(Citizen Data Science, ML, Automation, Algorithm) for Problem Solving
 	- What is Citizen Data Science? [Medium](https://medium.com/@thegostep/forget-about-data-scientists-start-thinking-about-citizen-data-science-3050f5803bce) 
+- App Development w. Flutter
+- Algorithm for Problem Solving
 - Art (Writing, Drawing, Music)
 - Cafe & Community
 
