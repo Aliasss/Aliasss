@@ -1,7 +1,7 @@
 
 ### Dongseob Kim 😊
 - The Catholic Univ. Big Data Humanities & Management Studies, Sociology (2013~2022)
-- Korea National Open University Department of Statistics and Data Science (2023~)
+- Korea National Open Univ. Statistics and Data Science (2023~)
 <br>
 	
   
@@ -14,11 +14,11 @@
 - The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상) (2021.06.04)
 
 #### Study & Community 💻
-- [모두의 연구소](https://modulabs.co.kr/) 알고리즘 스터디 풀잎스쿨 퍼실리테이터 (2022.09~)
-- 가짜연구소(Pseudo lab) fellowship 5th Builder - Machine Learning Scientist Track (2022.09~)
+- [모두의 연구소](https://modulabs.co.kr/) 알고리즘 스터디 풀잎스쿨 퍼실리테이터 (2022.09~2022.12)
+- 가짜연구소(Pseudo lab) fellowship 5th Builder - Machine Learning Scientist Track (2022.09~2023.03)
 - 2022 Naver Boostcourse PY4E lead booster (2022.08~2022.09)
-- Tableau 신병 훈련소 13기 수료 (2022.03.18~2022.04.01)
-- Python Problem Solving Group Study (2022.03~2022.06)
+- Tableau 신병 훈련소 13기 (2022.03.18~2022.04.01)
+- Python Problem Solving Group (2022.03~2022.06)
 - Interactive Data Lab Owner (2021.10.20~2022.01.29)
 
 #### Skills 📟
@@ -27,10 +27,10 @@
 - BI Tools : Tableau, Redash, Amplitude, Google Data Studio
 
 #### Interest 🥂 
-- Tenchology(Citizen Data Science, ML, Automation, Algorithm) for Problem Solving
+- Tenchology(Citizen Data Science, ML, Automation, Algorithm) for Social Problem Solving
 	- What is Citizen Data Science? [Medium](https://medium.com/@thegostep/forget-about-data-scientists-start-thinking-about-citizen-data-science-3050f5803bce) 
-- App Development w. Flutter
-- Algorithm for Problem Solving
+- Visualization (Plotly, Dash)
+- Problem Solving with Python
 - Art (Writing, Drawing, Music)
 - Cafe & Community
 
