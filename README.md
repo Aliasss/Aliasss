@@ -22,8 +22,10 @@
 - Interactive Data Lab Owner (2021.10.20~2022.01.29)
 
 #### Skills 📟
-- Program Language : Python, JavaScript, Dart, SQL(Google BigQuery, MySQL)
-- Data Handling(Pandas, Numpy, Matplotlib, Seaborn, etc), Automation(selenium, pyautogui, pyperclip), Machine Learning
+- Program Language : Python, SQL(Google Bigquery, MySQL)
+- Data Handling : Pandas, Numpy, Matplotlib, Seaborn, etc
+- Automation : Airflow, selenium, pyautogui, pyperclip
+- Machine Learning
 - BI Tools : Tableau, Redash, Amplitude, Google Data Studio
 
 #### Interest 🥂 
