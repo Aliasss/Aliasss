@@ -10,7 +10,8 @@
 
 	
 #### Career 🌞
-- Business Data Analyst (Soomgo) (2021.07.13~)
+- Data Analyst (The JoongAng) (2024.02.05~)
+- Data Analyst (Soomgo) (2021.07.13~2024.01.18)
 - Data Analyst Intern (Frip) (2020.08~2021.02) 
 - The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상) (2021.06.04)
 
