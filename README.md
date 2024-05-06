@@ -24,19 +24,18 @@
 - Interactive Data Lab Owner (2021.10.20~2022.01.29)
 
 #### Skills 📟
-- Program Language : Python, SQL(Google Bigquery, MySQL)
+- Program Language : Python, SQL(Google Bigquery, MySQL), R, Dart, Flutter
 - Data Handling : Pandas, Numpy, Matplotlib, Seaborn, etc
 - Automation : Airflow, selenium, pyautogui, pyperclip
-- Machine Learning
-- BI Tools : Tableau, Redash, Amplitude, Google Data Studio
+- Machine Learning(Normal ML Skills, CNN)
+- BI Tools : Tableau, Redash, Amplitude, Google Looker Studio
 
 #### Interest 🥂 
+- Side Projects for Problem Solving
 - Tenchology(Citizen Data Science, ML, Automation, Algorithm) for Social Problem Solving
 	- What is Citizen Data Science? [Medium](https://medium.com/@thegostep/forget-about-data-scientists-start-thinking-about-citizen-data-science-3050f5803bce) 
 - Visualization (Plotly, Dash)
-- Problem Solving with Python
-- Art (Writing, Drawing, Music)
-- Cafe & Community
+- Community
 
 
 <!-- #### github stats 🐱‍🏍 -->
