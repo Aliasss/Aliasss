@@ -11,8 +11,12 @@
 	
 #### Career 🌞
 - Data Analyst (The JoongAng) (2024.02.05~)
-- Data Analyst (Soomgo) (2021.07.13~2024.01.18)
+- Product Data Analyst (Soomgo) (2021.07.13~2024.01.18)
 - Data Analyst Intern (Frip) (2020.08~2021.02) 
+- Contents Creator (Donga)
+(2019.07~2020.01)
+
+#### Awards
 - The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상) (2021.06.04)
 
 #### Study & Community 💻
