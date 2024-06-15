@@ -13,11 +13,10 @@
 - Data Analyst (The JoongAng) (2024.02.05~)
 - Product Data Analyst (Soomgo) (2021.07.13~2024.01.18)
 - Data Analyst Intern (Frip) (2020.08~2021.02) 
-- Contents Creator (Donga)
-(2019.07~2020.01)
+- Contents Creator (Donga) (2019.07~2020.01)
 
-#### Awards
-- The Catholic Univ. the 3rd Data Analysis Competition 1st prize(최우수상) (2021.06.04)
+#### Awards 🪅
+- The Catholic Univ. the 3rd Data Analysis Competition 1st prize (최우수상)(2021.06.04)
 
 #### Study & Community 💻
 - [모두의 연구소](https://modulabs.co.kr/) 알고리즘 스터디 풀잎스쿨 퍼실리테이터 (2022.09~2022.12)
