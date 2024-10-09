@@ -10,7 +10,8 @@
 
 	
 #### Career 🌞
-- Data Analyst (The JoongAng) (2024.02.05~2024.08.23)
+- Product Analyst (Wrtn Technologies) (2024.11.04~)
+- Data Analyst (The JoongAng) (2024.02.05~2024.08.30)
 - Product Data Analyst (Soomgo) (2021.07.13~2024.01.18)
 - Data Analyst Intern (Frip) (2020.08~2021.02) 
 - Contents Creator (Donga) (2019.07~2020.01)
