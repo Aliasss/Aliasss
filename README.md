@@ -10,7 +10,7 @@
 
 	
 #### Career 🌞
-- Product Analyst ([Wrtn Technologies](https://wrtn.ai/)) (2024.11.04~)
+- Product Analyst ([Wrtn Technologies](https://wrtn.ai/)) (2024.11.04~2024.11.30)
 - Data Analyst ([The JoongAng](https://www.joongang.co.kr/plus)) (2024.02.05~2024.08.30)
 - Product Data Analyst ([Soomgo](https://soomgo.com/)) (2021.07.13~2024.01.18)
 - Data Analyst Intern (Frip) (2020.08~2021.02) 
