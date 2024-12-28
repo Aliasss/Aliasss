@@ -20,6 +20,7 @@
 - The Catholic Univ. the 3rd Data Analysis Competition 1st prize (최우수상)(2021.06.04)
 
 #### Study & Community 💻
+- [Tech for Good](https://krtechforgood.notion.site/TechForGood-1546a82930b880829e82deb69471fe12) - Case studies of solving global issues using technologies like data science (2024.12~)
 - [모두의 연구소](https://modulabs.co.kr/) 알고리즘 스터디 풀잎스쿨 퍼실리테이터 (2022.09~2022.12)
 - 가짜연구소(Pseudo lab) fellowship 5th Builder - Machine Learning Scientist Track (2022.09~2023.03)
 - 2022 Naver Boostcourse PY4E lead booster (2022.08~2022.09)
