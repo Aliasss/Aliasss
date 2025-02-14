@@ -2,7 +2,6 @@
 ### Dongseob Kim 😊
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seob/)](https://www.linkedin.com/in/seob/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seob6615@gmail.com)](mailto:seob6615@gmail.com)
 <!-- [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/owl301256)](https://www.facebook.com/owl301256/)  	 -->
-- MIT Institute for Data System and Society, Data Science and Machine Learning Certificate Program (2024.09~)
 - Korea National Open Univ. Statistics and Data Science (2023.03~)
 - The Catholic Univ. Big Data Humanities & Management Studies, Sociology (2013.03~2022.02)
 <br>	
@@ -10,7 +9,7 @@
 
 	
 #### Career 🌞
-- Currently participating in projects and preparing a portfolio for a career transition to Product Designer (2024.12.02~)
+- Currently participating in projects and preparing a portfolio for a career transition to Product Designer (2024.12.02~2025.02.10)
 - Product Analyst ([Wrtn Technologies](https://wrtn.ai/)) (2024.11.04~2024.11.30)
 - Data Analyst ([The JoongAng](https://www.joongang.co.kr/plus)) (2024.02.05~2024.08.30)
 - Product Data Analyst ([Soomgo](https://soomgo.com/)) (2021.07.13~2024.01.18)
@@ -21,6 +20,7 @@
 - The Catholic Univ. the 3rd Data Analysis Competition 1st prize (최우수상)(2021.06.04)
 
 #### Study & Community 💻
+- MIT Institute for Data System and Society, Data Science and Machine Learning Certificate Program (Top 10) (2024.09~2025.02)
 - [Tech for Good](https://krtechforgood.notion.site/TechForGood-1546a82930b880829e82deb69471fe12) - Case studies of solving global issues using technologies like data science (2024.12~)
 - [모두의 연구소](https://modulabs.co.kr/) 알고리즘 스터디 풀잎스쿨 퍼실리테이터 (2022.09~2022.12)
 - 가짜연구소(Pseudo lab) fellowship 5th Builder - Machine Learning Scientist Track (2022.09~2023.03)
