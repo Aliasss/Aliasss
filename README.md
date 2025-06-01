@@ -2,7 +2,6 @@
 ### Dongseob Kim 😊
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seob/)](https://www.linkedin.com/in/seob/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seob6615@gmail.com)](mailto:seob6615@gmail.com)
 <!-- [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/owl301256)](https://www.facebook.com/owl301256/)  	 -->
-- Korea National Open Univ. Statistics and Data Science (2023.03~)
 - The Catholic Univ. Big Data Humanities & Management Studies, Sociology (2013.03~2022.02)
 <br>	
   
