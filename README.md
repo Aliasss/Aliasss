@@ -5,10 +5,10 @@
 - The Catholic Univ. Big Data Humanities & Management Studies, Sociology (2013.03~2022.02)
 <br>	
   
-
 	
 #### Career 🌞
-- Growth Hacker(Data Analyst) (Passorder) (2025.03.25~)
+- Business Data Analyst (Soomgo) (2025.07.21~)
+- Growth Hacker(Data Analyst) (Passorder) (2025.03.25~2025.07.04)
 - Zerobase UXUI full-time Program (2024.12.02~2025.02.10)
 - Product Analyst ([Wrtn Technologies](https://wrtn.ai/)) (2024.11.04~2024.11.30)
 - Data Analyst ([The JoongAng](https://www.joongang.co.kr/plus)) (2024.02.05~2024.08.30)
