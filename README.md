@@ -7,7 +7,7 @@
   
 	
 #### Career 🌞
-- [Soomgo] Business Data Analyst (Finance Team) (2025.07.21~)
+- [Soomgo] Business Data Analyst (Finance Team FP&A Chapter) (2025.07.21~)
 - [Passorder] Growth Hacker(Data Analyst) (Growth Hacking Team) (2025.03.25~2025.07.04)
 - Zerobase UXUI full-time Program (2024.12.02~2025.02.10)
 - [[Wrtn Technologies](https://wrtn.ai/)] Product Analyst (Product Analytics Team) (2024.11.04~2024.11.30)
@@ -20,6 +20,7 @@
 - The Catholic Univ. the 3rd Data Analysis Competition 1st prize (최우수상)(2021.06.04)
 
 #### Study & Community 💻
+- [가짜연구소(Pseudo Lab)](https://pseudolab.github.io/about) 11th Academy Builder (2025.08~)
 - MIT Institute for Data System and Society, Data Science and Machine Learning Certificate Program (Top 10) (2024.09~2025.02)
 - [Tech for Good](https://krtechforgood.notion.site/TechForGood-1546a82930b880829e82deb69471fe12) - Case studies of solving global issues using technologies like data science (2024.12~)
 - [모두의 연구소](https://modulabs.co.kr/) 알고리즘 스터디 풀잎스쿨 퍼실리테이터 (2022.09~2022.12)
